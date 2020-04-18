@@ -1,0 +1,29 @@
+﻿生成启动时间为 2020/4/18 11:16:20。
+     1>项目“G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\QtSocket\QtSocket.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (QtSocket.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>CustomBuild:
+         Moc'ing Server.h...
+         Uic'ing Server.ui...
+         Rcc'ing Server.qrc...
+     1>RCC : warning : No resources in 'G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\QtSocket\Server.qrc'.
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_Server.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_Server.cpp, GeneratedFiles\Release\moc_Server.cpp.
+       ClCompile:
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Debug /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtNetwork /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_Server.cpp main.cpp Server.cpp
+         moc_Server.cpp
+         main.cpp
+         Server.cpp
+         正在生成代码...
+         E:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Debug /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtNetwork /IE:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_Server.cpp
+         qrc_Server.cpp
+       Link:
+         E:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\Win32\Debug\\QtSocketServer.exe" /NOLOGO /LIBPATH:E:\Qt\Qt5.6.0\5.6\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\Win32\Debug\QtSocketServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\Win32\Debug\QtSocketServer.lib" /MACHINE:X86 /SAFESEH Debug\moc_Server.obj
+         Debug\qrc_Server.obj
+         Debug\main.obj
+         Debug\Server.obj
+         QtSocket.vcxproj -> G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\Win32\Debug\QtSocketServer.exe
+     1>已完成生成项目“G:\8.New_cd\3.Study\3.Windows\5.Socket\QtSocket\QtSocket\QtSocket.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:20.34
