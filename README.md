@@ -8,7 +8,7 @@ About me:
 
 Name: Feng Qiangguo
 
-Mail:   fengjungle@gmail.com
+Mail:   fengjungle@126.com
 
 WeChat: fengjungle
 
