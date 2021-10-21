@@ -40,5 +40,5 @@ Transferring messages and files between the server and the client are realized i
 ## Develop environment:   
 Visio Studio 2013 + Qt5.6.0
 
-##　Blog: 
+## Blog: 
 https://blog.csdn.net/sinat_21107433/article/details/80150575
