@@ -2,17 +2,14 @@
 
 ## Info
 
-Date: 2020-04-18
+- Date: 2020-04-18
+- Author: fengjungle
 
-Author: fengjungle
+### About me:
 
-About me:
-
-Name: Feng Qiangguo
-
-Mail:   fengjungle@126.com
-
-WeChat: fengjungle
+- Name: Feng Qiangguo
+- Mail:   fengjungle@126.com
+- WeChat: fengjungle
 
 ## 项目简介
 
